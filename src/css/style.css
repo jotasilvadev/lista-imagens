@@ -1,0 +1,42 @@
+body {
+    display: flex;    
+    justify-content: center;
+    align-items: center;    
+}
+.container {
+    padding: 100px 20px;
+    display: flex;
+    width: 1440px;    
+    justify-content: space-between;
+    align-items: center;
+}
+
+div{
+    height: 435px;
+    width: 335px;
+}
+
+
+.nomeArte {
+    position: relative;
+    top: 84%;
+    margin-left: 26px;
+    font-family: "Public Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    color: #ffffff;
+}
+.nomePintor {
+    position: relative;
+    top: 86%;
+    margin-left: 26px;
+    font-family: "Public Sans";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 20px;
+    color: #ffffff;
+}
+
